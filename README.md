@@ -26,7 +26,7 @@ Below is an example of counting the number of moving objects in a video. The ima
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page4.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page5.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page6.png" alt="alt text">
-<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page7.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page 7.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page8.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page9.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page10.png" alt="alt text">
