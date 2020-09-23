@@ -5,7 +5,8 @@ My code can be found in the './code' directory along with a 'README.txt' file wh
 
 Overview:
 Motion Estimation
-<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/motionField.jpg" alt="alt text" width ="350" height ="350">
+
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/motionField.jpg" alt="alt text" width ="400" height ="400">
 
 Predicting the next frame of a video
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/predictedFrame.png" alt="alt text">
