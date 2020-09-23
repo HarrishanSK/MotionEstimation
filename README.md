@@ -19,7 +19,7 @@ Below is an example of counting the number of moving objects in a video. The ima
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/counting.png" alt="alt text">
 
 
-## Report
+# Report
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page1.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page2.png" alt="alt text">
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page3.png" alt="alt text">
