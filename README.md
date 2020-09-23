@@ -6,7 +6,8 @@ My code can be found in the './code' directory along with a 'README.txt' file wh
 ## Overview:
 #### Motion Estimation
 Below we have a frame from a video where the previous frame and the current frame are used with block matching to calculate the motion vectors of the moving objects in the image. Arrows are then super imposed onto the image showing the direction each moving block had moved between both frames. Thereby estimating the motion of the vehicles in the video.
-<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/motionField.jpg" alt="alt text" width ="400" height ="400">
+
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/motionField.jpg" alt="alt text" width ="390" height ="270">
 
 #### Predicting the next frame of a video
 Using the calculated motion vectors the next frame in the video can be predicted by moving the blocks in the direction of the motion vectors. Below we can see the actual consecutive frame on the left and the predicted frame by my code on the right. It is clear the prediction is accurate with some minor distortions.
