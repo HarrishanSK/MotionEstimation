@@ -17,3 +17,16 @@ Using the calculated motion vectors the next frame in the video can be predicted
 #### Counting the number of moving vehicles in a video
 Below is an example of counting the number of moving objects in a video. The image below on the left is what the program sees after using the blockify algorithm which i implemented to easily segment the objects and count them using the connected components algorithm.
 <img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/counting.png" alt="alt text">
+
+
+## Report
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page1.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page2.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page3.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page4.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page5.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page6.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page7.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page8.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page9.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/page10.png" alt="alt text">
