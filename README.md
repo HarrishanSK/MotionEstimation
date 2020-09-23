@@ -6,9 +6,10 @@ My code can be found in the './code' directory along with a 'README.txt' file wh
 Overview:
 
 Motion Estimation
-<img src="https://github.com/HarrishanSK/LBP_Classifier/blob/master/Images/page1.png" alt="alt text">
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/motionField.jpg" alt="alt text" width ="350" height ="350">
 
 Predicting the next frame of a video
-
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/predictedFrame.png" alt="alt text">
 
 Counting the number of moving vehicles in a video
+<img src="https://github.com/HarrishanSK/MotionEstimation/blob/master/images/counting.png" alt="alt text">
